@@ -7,7 +7,7 @@ DNS Service Verification: Used netstat to confirm that DNS is listening on TCP a
 
 <img src="Screenshots/DNS service verification.png"/>
 
-Active Directory DNS health: From the output, we can see that the Windows server JH-dc01 successfully passes both the connectivity test and the DNS test. We can also see that the domain jakehomelab.test successfully passed the DNS test.
+Active Directory DNS health: Used dcdiag to verify Active Directory DNS health and from the output, we can see that the Windows server JH-dc01 successfully passes both the connectivity test and the DNS test. We can also see that the domain jakehomelab.test successfully passed the DNS test.
 
 <img src="Screenshots/AD health.png"/>
 
