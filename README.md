@@ -5,7 +5,7 @@
 
 DNS Service Verification: Used netstat to confirm that DNS is listening on TCP and UDP port 53 on the domain controller's assigned IPv4 address. Successful DNS resolution and Active Directory DNS diagnostics were verified separately.
 
-<img src="Screenshots/Power on VM.png"/>
+<img src="Screenshots/DNS service verification.png"/>
 
 <h2>Environment</h2>
 
