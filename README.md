@@ -15,4 +15,4 @@ DNS Server Service Status: Used the sc query dns command in Command Prompt to ve
 
 The output returned STATE: 4 RUNNING, confirming that the DNS service was active.
 
-<img src="Screenshots/AD health.png"/>
+<img src="Screenshots/DNS service status.png"/>
