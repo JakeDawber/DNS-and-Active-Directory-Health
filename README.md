@@ -11,3 +11,8 @@ Active Directory DNS health: Used dcdiag to verify Active Directory DNS health a
 
 <img src="Screenshots/AD health.png"/>
 
+DNS Server Service Status: Used the sc query dns command in Command Prompt to verify that the Windows DNS Server service was running.
+
+The output returned STATE: 4 RUNNING, confirming that the DNS service was active.
+
+<img src="Screenshots/AD health.png"/>
